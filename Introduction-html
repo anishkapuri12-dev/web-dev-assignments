@@ -1,1 +1,74 @@
-file:///D:/HTML_practice/html1.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>After class challenge 1</title>
+        <h1><center>ANISHKA PURI</center></h1>
+    </head>
+    <body>
+        <center><img src="D:\Anishka documents\WhatsApp Image 2026-11-12 at 23.23.10.jpeg"
+            alt="Acrylic painting of flowers"
+            height="300"></center>
+            <p><i>This is my whatsapp profile picture. So you 
+                probably know me from this</i>
+            </p>
+        <center><img src="D:\Anishka documents\WhatsApp Image 2026-11-12 at 23.59.58.jpeg",
+        alt="My photo"
+        height=300></center>
+        <p><i>This is me on the first day of the fest. I do not normally look like 
+            this. PS: can I get some extra marks for looking good in this photo?
+             just curious
+        </i></p>
+         <p><i>Hello guys! I am Anishka. I am a CSE-AI fresher. I am from delhi.
+            I live in a nuclear family. Funfact I have a dog named Mithoo. He is 
+            a shih tzu.
+            </i></p>
+        <center><img src="D:\Anishka documents\WhatsApp Image 2026-11-13 at 00.01.29.jpeg"
+        alt="Mithoo"
+        height=300></center>
+            <p><i> I am actually from a non 
+            CS background. I am very happy to be a part of this cohort. I hope
+            you like this assignment as I am not proficient at HTML like other 
+            students are. But I am not discouraged by this as this is just 
+            another challenge in the long journey of an aspiring developer.
+         </i></p>
+         <hr />
+         <h2>My Hobbies</h2>
+         <p><i>I am very serious <b>I repeat, I am very sirius</b> about my hobbies.
+        I practically have a hobby of collecting hobbies. I am a different women during
+        the holidays.</i></p>
+        <h3>A list of my interests and hobbies that i have had or have till now</h3>
+        <ul>
+            <li>Drawing(sketching, water color, acrylic, charcoal)</li>
+            <li>Swimming</li>
+            <li>Crochet</li>
+            <li>Book Reading</li>
+            <li>Delusions of being a writer</li>
+            <li>Poor attempts at being a writer</li>
+            <li>Singing (poorly)</li>
+            <li>Dancing (poorly)</li>
+            <li>Yoga</li>
+        </ul>
+        <p><i>For me hobby is a thing that I am trying not to take seriously. What I mean
+            is I take having hobbies seriously. I am not serious about being good or the
+            best at them. So I have multiple hobbies. Some of these activities, I have not 
+            done in years. But I have taken part in them and I am grateful to have lived a life
+            where I was able to explore so many leisures without any pressure.
+        </i></p>
+        <p><i>I also take part in Rangoli making. Here is the latest one.</i></p>
+        <img src="D:\Anishka documents\WhatsApp Image 2026-11-13 at 00.02.20.jpeg"
+        height="300">
+
+        <hr />    
+         <h3>My favorite website for western celebrity gossip</h3>
+         <a href="https://scandalous.media/?srsltid=AYCX9vIeTXnrlG9dX-6gjazJK3bxjh8os2SRI7oEdby5f6s1liyIzv9M">
+            Scandalous media
+         </a>
+        <hr/>
+        <p><i>My Web Dev Goals are:-</i></p>
+        <ul>
+            <li><i>I want to get better at coding. Get more knowledgable as a person and gain experience with practice</i></li>
+            <li><i>I want to take part in Hackathon(finally, as I have not taken part in any yet) and be able to properly contribute to the team</i></li>
+            <li><i>I wish to be a top mentee and join GDG(it would really be a dream come true). I want to be a goated senior like our mentors in the future</i></li>
+        </ul>
+    </body>
+</html>
